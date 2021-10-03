@@ -11,6 +11,5 @@ module.exports = (eleventyConfig) => {
       'md',
       'njk',
     ],
-    // pathPrefix: '/YOUR_REPO_NAME_HERE/', // omit this line if using custom domain
   };
 };
