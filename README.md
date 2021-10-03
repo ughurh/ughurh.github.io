@@ -1,3 +1,3 @@
 # Ughur Huseyn
 
-ughurh.github.io
+https://ughurh.github.io
