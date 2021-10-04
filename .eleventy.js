@@ -8,7 +8,7 @@ module.exports = (eleventyConfig) => {
       output: 'public',
     },
     templateFormats: [
-      'html',
+      //'html',
       'md',
       'njk',
     ],
