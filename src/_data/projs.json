@@ -1,7 +1,7 @@
 [
     {
         "name": "nextpass",
-        "desc": "NextPass generates passwords in a cryoptographically secure way",
+        "desc": "Nextpass generates passwords in a cryoptographically secure way",
         "link": "https://github.com/ughurh/nextpass"
     },
     {
@@ -23,10 +23,5 @@
         "name": "sojan",
         "desc": "Paginates the Jobs page on Stack Overflow, extracts tags from all jobs and shows the most used tags with count",
         "link": "https://github.com/ughurh/sojan"
-    },    
-    {
-        "name": "utref",
-        "desc": "UT - Ultrasonic Testing: Quick Reference Guide",
-        "link": "https://github.com/ughurh/utref"
     }
 ]
